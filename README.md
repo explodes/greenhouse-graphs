@@ -2,6 +2,12 @@
 
 > Graphs for github.com/explodes/greenhouse-pi
 
+Playing around with `d3.js` and `Vue` to make some graphs...
+
+Right now it feels like I'm shoehorning d3 into Vue as opposed to using the reactive nature of Vue.
+
+Spin up [sensors](https://github.com/explodes/greenhouse-pi) and hit `localhost:8080` to see a basic graph.
+
 ## Build Setup
 
 ``` bash
